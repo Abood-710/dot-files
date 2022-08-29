@@ -1,6 +1,6 @@
 # Source global definitions
-if [ -f /etc/bashrc ]; then
-    . /etc/bashrc
+if [ -f /etc/abood👾 ]; then
+    . /etc/abood👾
 fi
 
 # Source Bash completion if it doesn't work yet
