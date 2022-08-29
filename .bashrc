@@ -27,7 +27,7 @@ HISTIGNORE='ls:bg:fg:history'
 HISTTIMEFORMAT='%F %T'
 
 PROMPT_COMMAND='history -a; settitle'
-PS1='\[\033[01;32m\]\t\[\033[00m\]:[\033[01;33m\]abood👾\[\033[00m\]  '
+PS1='\[\033[01;32m\]\t\[\033[00m\]:\033[01;33m\]abood👾\[\033[00m\]  '
 export LANG=en_US.UTF-8 #this way screen will also start wtih utf8
 export EDITOR=vi
 
